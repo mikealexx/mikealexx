@@ -1,4 +1,4 @@
-HI! My name is Mike. I am a CS student (B.Sc.) in the Technion, Israel.
+Hello pls gib me 100
 
 <!---
 mikealexx/mikealexx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
