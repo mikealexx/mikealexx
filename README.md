@@ -8,6 +8,7 @@ I'm a third-year Computer Science student at the Technion - Israel Institute of 
 - 🧩 Enthusiastic about problem-solving and discovering solutions during the development process.
 - 🌟 Special connection with Python <3, proficient in Java, C, C++.
 - 🚀 Working on projects like TiktokLiveTool and Instalker.
+- 😄 I find joy in the full process of software development, from the initial brainstorming session to seeing a complete and working program. There's nothing quite like the satisfaction of a bug-free code!
 
 ## Current Projects
 
