@@ -12,11 +12,11 @@ I'm a third-year Computer Science student at the Technion - Israel Institute of 
 
 ## Current Projects
 
-### TiktokLiveTool
-TiktokLiveTool is a program designed to connect to TikTok live streams using a specific API, allowing interaction with viewers through likes, comments, and gifts. One of the features I aimed for was a text-to-speech system to read comments from viewers who donated or sent a gift. However, due to constant updates in TikTok's API, maintaining compatibility became challenging.
-
 ### Instalker
 Instalker is an Instagram user analyzing tool under development. Its main features include the ability to export and compare old/new followers or following users.
+
+### TiktokLiveTool
+TiktokLiveTool is a program designed to connect to TikTok live streams using a specific API, allowing interaction with viewers through likes, comments, and gifts. One of the features I aimed for was a text-to-speech system to read comments from viewers who donated or sent a gift. However, due to constant updates in TikTok's API, maintaining compatibility became challenging.
 
 ## Get in Touch
 
