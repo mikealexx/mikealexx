@@ -20,7 +20,7 @@ TiktokLiveTool is a program designed to connect to TikTok live streams using a s
 
 ## Get in Touch
 
-- 📧 You can reach me via email at [mike.alexandrovsky@gmail.com](mailto:mike.alexandrovsky@gmail.com).
+- 📧 You can reach me via email at [mikealexx97@gmail.com](mailto:mikealexx97@gmail.com).
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mikealexx/) to stay updated on my latest projects.
 
 ## Looking Ahead
