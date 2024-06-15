@@ -12,7 +12,7 @@ I'm a third-year Computer Science student at the Technion - Israel Institute of 
 
 ## Current Projects
 
-### (TVsrael)[https://github.com/mikealexx/TVsrael]
+### [TVsrael](https://github.com/mikealexx/TVsrael)
 TVsrael is an Android app which brings all the free Israeli TV channels to one place.
 The project was born after a certain official app (hhmm.. Reshet 13 hhm...) was crashing every 5 minutes and I just wanted to watch TV.
 This is my first android project which hopefully will be on the Google Play store.
