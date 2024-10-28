@@ -17,6 +17,13 @@ TVsrael is an Android app which brings all the free Israeli TV channels to one p
 The project was born after a certain official app (hhmm.. Reshet 13 hhm...) was crashing every 5 minutes and I just wanted to watch TV.
 This is my first android project which hopefully will be on the Google Play store.
 
+### [Just Type Bro](https://github.com/mikealexx/JustTypeBro)
+Imagine this: you're sitting there trying to stay awake as your professor drones on about 19th-century trade routes, and suddenly—ping!—an audio message from Mom. She says, "Sweetie, I was just thinking, should I use the lavender or the vanilla fabric softener? Also, Aunt Linda says hi!"
+
+You roll your eyes, forward it to Just Type Bro, and seconds later, voilà: the entire saga in text, right there for you to read. Now you can scroll, sigh, and silently thank Just Type Bro for saving you from that embarrassing mid-lecture audio blast!
+
+Just Type Bro, your trusty WhatsApp bot that exists solely to transcribe those "urgent" audio messages from Mom while you're, say, in the middle of a lecture (or anywhere Mom knows you can’t respond).
+
 ### Instalker
 Instalker is an Instagram user analyzing tool under development. Its main features include the ability to export and compare old/new followers or following users.
 
