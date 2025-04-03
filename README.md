@@ -1,6 +1,7 @@
 # Hi there, I'm Mike Alexandrovsky! 👋
 
-I'm a freshly graduated Computer Science BSc from the Technion – Israel Institute of Technology (Class of 2025 🎓). I currently work at **Ruby.AI Robotic Technologies Ltd.**, a startup where we cook up futuristic robotic solutions with just the right amount of Python seasoning 🐍🤖.
+I'm a freshly graduated Computer Science BSc from the Technion – Israel Institute of Technology (Class of 2025 🎓).
+I currently work at **Ruby.AI Robotic Technologies Ltd.**, a startup where we cook up futuristic robotic solutions with just the right amount of Python seasoning 🐍🤖.
 
 I have a passion for software development and enjoy tackling programming challenges as if they were puzzles. There’s something deeply satisfying about taking a project from a scribble on a whiteboard to a living, breathing piece of software. Watching your code finally run without errors? Chef’s kiss. 👨‍🍳💻
 
