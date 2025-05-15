@@ -21,11 +21,23 @@ The project was born after a certain official app (hhmm.. Reshet 13 hhm...) was 
 This is my first android project which hopefully will be on the Google Play store.
 
 ### [Just Type Bro](https://github.com/mikealexx/JustTypeBro)
-Imagine this: you're sitting there trying to stay awake as your professor drones on about 19th-century trade routes, and suddenly—ping!—an audio message from Mom. She says, "Sweetie, I was just thinking, should I use the lavender or the vanilla fabric softener? Also, Aunt Linda says hi!"
 
-You roll your eyes, forward it to Just Type Bro, and seconds later, voilà: the entire saga in text, right there for you to read. Now you can scroll, sigh, and silently thank Just Type Bro for saving you from that embarrassing mid-lecture audio blast!
+> _RIP Just Type Bro: May your transcriptions rest in peace_ ☠️📱📝
 
-Just Type Bro, your trusty WhatsApp bot that exists solely to transcribe those "urgent" audio messages from Mom while you're, say, in the middle of a lecture (or anywhere Mom knows you can’t respond).
+Once upon a time, in the wild era *before* May 2025, you were sitting in class, trying not to drool on your notes, when—**ping!**—a voice message from Mom:  
+> “Honey, should I use the lavender or the vanilla fabric softener? Also, Aunt Linda says hi!”
+
+You’d sigh, forward it to **Just Type Bro**, and boom—crisis averted, text in hand, dignity intact.
+
+But alas, the bots have retired.  
+As of May 2025, WhatsApp finally released **official transcription**, putting our dear Bro out of business.  
+No hard feelings—we walked so they could run.
+
+Thanks to everyone who used us to dodge awkward public audio messages. We were proud to serve.  
+Now if you’ll excuse us, we’ll be quietly sipping piña coladas in deprecated-bot heaven.
+
+👋 *Goodbye world. It’s been real.*
+
 
 ### Instalker
 Instalker is an Instagram user analyzing tool under development. Its main features include the ability to export and compare old/new followers or following users.
